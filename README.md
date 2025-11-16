@@ -5,3 +5,14 @@ Ejercicio de Clase - Despliegue de aplicaciones web
 Este repositorio contiene un ejercicio práctico realizado para el módulo de despliegue de aplicaciones web.
 
 El objetivo de esta actividad fue practicar el manejo de git y github.
+
+<table>
+    <tr>
+        <th>NOMBRE</th>
+        <th>GITHUB</th>
+    </tr>
+    <tr>
+        <td>nombre</td>
+        <td>enlace</td>
+    </tr>
+</table>
