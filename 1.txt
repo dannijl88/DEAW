@@ -1,1 +1,3 @@
-hola
+<<<<<<< HEAD
+hola y adios
+>>>>>>> v0.2
