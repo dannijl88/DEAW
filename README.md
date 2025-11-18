@@ -12,7 +12,11 @@ El objetivo de esta actividad fue practicar el manejo de git y github.
         <th>GITHUB</th>
     </tr>
     <tr>
-        <td>nombre</td>
-        <td>enlace</td>
+        <td>Alejandro Gómez</td>
+        <td>https://github.com/CamaleonCuliao</td>
+        <td>Alejandro Galvez Ortiz</td>
+        <td>https://github.com/Us3r2342</td>
+        <td>David Pascual</td>
+        <td>https://github.com/David-cds</td>
     </tr>
 </table>
